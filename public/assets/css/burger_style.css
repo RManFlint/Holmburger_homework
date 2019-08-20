@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    width: 99%;
+    margin: 30px auto;
+    background-image: linear-gradient(
+	    30deg, #33ccff 0%, #ccffff 30%, white 50%, #ccffff 80%, #33ccff 100%);
+    
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+#main {
+    width: 40%;
+    text-align:center;
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+
+
+}
+
+#devoured {
+    width: 40%;
+    text-align:center;
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+    margin-left: 25%;
+}
